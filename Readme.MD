@@ -57,9 +57,28 @@ content-type: application/json
 
 ## Swagger UI
 
-*(Screenshot goes here — open http://localhost:8000/docs, run the full
-CRUD cycle with "Try it out", then paste a screenshot in this section
-before submitting.)*
+*(Screenshot goes here — open http://localhost:8000/docs, 
+
+## S1
+
+![Page1](scr/s1.png)
+
+## S2
+
+![S2](scr/s2.png)
+
+## S3
+
+![S3](scr/s3.png)
+
+## S4
+
+![S4](scr/s4.png)
+
+## S5
+
+![S5](scr/s5.png)
+
 
 ## The mortality experiment
 
